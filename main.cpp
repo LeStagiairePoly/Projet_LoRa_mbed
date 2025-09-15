@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <DHT.h> 
+/* #include <DHT.h> */
 
 #include "lorawan/LoRaWANInterface.h"
 #include "lorawan/system/lorawan_data_structures.h"
